@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4245
+
+Adds the :Bclose command, which closes a buffer without re-arranging the windows.
